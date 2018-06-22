@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 74bc9f1931b8859419bb8753d93ee5cb
+timeCreated: 1461431849
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - startButton: {instanceID: 0}
+  - settingsButton: {instanceID: 0}
+  - dialog: {instanceID: 0}
+  - contentPanel: {instanceID: 0}
+  - gearImage: {instanceID: 0}
+  - ButtonClickSound: {fileID: 8300000, guid: 82594ed6eedf36d4fb59a1370b538e7c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
